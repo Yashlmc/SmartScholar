@@ -1,0 +1,16 @@
+Retrieval-Augmented Generation (RAG) enhances large language models (LLMs) by incorporating an information-retrieval mechanism that allows models to access and utilize additional data beyond their original training set. AWS states, "RAG allows LLMs to retrieve relevant information from external data sources to generate more accurate and contextually relevant responses" (indexing).[11] This approach reduces reliance on static datasets, which can quickly become outdated. When a user submits a query, RAG uses a document retriever to search for relevant content from available sources before incorporating the retrieved information into the model’s response (retrieval).[12] Ars Technica notes that "when new information becomes available, rather than having to retrain the model, all that’s needed is to augment the model’s external knowledge base with the updated information" (augmentation).[6] By dynamically integrating relevant data, RAG enables LLMs to generate more informed and contextually grounded responses (generation).[5] IBM states that "in the generative phase, the LLM draws from the augmented prompt and its internal representation of its training data to synthesize an engaging answer tailored to the user in that instant.[1]
+
+RAG key stages
+Indexing
+Typically, the data to be referenced is converted into LLM embeddings, numerical representations in the form of a large vector space.[8] RAG can be used on unstructured (usually text), semi-structured, or structured data (for example knowledge graphs).[13] These embeddings are then stored in a vector database to allow for document retrieval.[14]
+
+
+Overview of RAG process, combining external documents and user input into an LLM prompt to get tailored output
+Retrieval
+Given a user query, a document retriever is first called to select the most relevant documents that will be used to augment the query.[2][4] This comparison can be done using a variety of methods, which depend in part on the type of indexing used.[1][13]
+
+Augmentation
+The model feeds this relevant retrieved information into the LLM via prompt engineering of the user's original query.[11][15] Newer implementations (as of 2023) can also incorporate specific augmentation modules with abilities such as expanding queries into multiple domains and using memory and self-improvement to learn from previous retrievals.[13]
+
+Generation
+Finally, the LLM can generate output based on both the query and the retrieved documents.[2][16] Some models incorporate extra steps to improve output, such as the re-ranking of retrieved information, context selection, and fine-tuning.[13]

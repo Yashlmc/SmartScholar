@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local machine-learning models and caches
+local/
+**/local/
+
+# Local databases and vector database
+*.db
+*.sqlite
+qdrant_vdb/
+
+# Logs and temporary files
+fm_logs/
+*.log
+query_processing/tmp*
+
+# Virtual environments
+venv/
+.venv/

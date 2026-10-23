@@ -1,0 +1,1000 @@
+query,category
+"Explain the difference between supervised and unsupervised learning.",explanatory
+"Write a Python script to implement a binary search tree.",technical
+"What is the time complexity of Dijkstra's algorithm?",conceptual
+"How does a relational database differ from a NoSQL database?",factual
+"Derive the formula for the area under a curve.",technical
+"Explain the Central Limit Theorem.",explanatory
+"How to solve a system of linear equations using matrices?",technical
+"What is the difference between mean and median?",factual
+"Explain the Heisenberg Uncertainty Principle.",explanatory
+"What is the chemical equation for photosynthesis?",factual
+"How does Newton's Third Law apply to rocket propulsion?",conceptual
+"What is the difference between exothermic and endothermic reactions?",factual
+"Explain the process of DNA replication.",explanatory
+"What is the role of mitochondria in cellular respiration?",factual
+"How does natural selection drive evolution?",conceptual
+"What are the differences between prokaryotic and eukaryotic cells?",factual
+"What are the symptoms of diabetes mellitus?",factual
+"Explain the mechanism of action of antibiotics.",explanatory
+"How does the human immune system respond to viruses?",conceptual
+"What is the difference between a virus and a bacterium?",factual
+"Explain the concept of supply and demand.",explanatory
+"What is the difference between fixed and variable costs?",factual
+"How to calculate net present value (NPV)?",technical
+"What are the key components of a business plan?",general
+"Explain Maslow's Hierarchy of Needs.",explanatory
+"What are the key theories of social stratification?",conceptual
+"How does the electoral college work in the US?",factual
+"What are the causes of the French Revolution?",general
+"Analyze the themes in Shakespeare's 'Hamlet'.",conceptual
+"What are the key arguments in Plato's 'Republic'?",explanatory
+"Explain the concept of linguistic relativity.",conceptual
+"What is the significance of the Renaissance in art history?",general
+"What are the key provisions of the US Constitution?",factual
+"Explain the difference between civil and criminal law.",explanatory
+"How does copyright law protect intellectual property?",conceptual
+"What is the role of the International Court of Justice?",general
+"Explain the greenhouse effect.",explanatory
+"What are the impacts of deforestation on biodiversity?",conceptual
+"How does solar energy work?",technical
+"What are the key principles of sustainable development?",general
+"Explain the constructivist approach to learning.",explanatory
+"What are the key components of a lesson plan?",general
+"How does gamification enhance student engagement?",conceptual
+"What are the challenges in inclusive education?",factual
+"Explain the principles of structural engineering.",explanatory
+"What is the difference between AC and DC current?",factual
+"How does a jet engine work?",technical
+"What are the key steps in chemical process design?",general
+"What is the difference between classification and regression?",factual
+"How to create a heatmap in Python using Seaborn?",technical
+"Explain the concept of overfitting in machine learning.",explanatory
+"What are the ethical considerations in data collection?",conceptual
+"Explain the principles of Bauhaus design.",explanatory
+"What are the key considerations in urban planning?",general
+"How does sustainable architecture reduce environmental impact?",conceptual
+"What is the difference between modern and postmodern architecture?",factual
+"Explain the process of photosynthesis in plants.",explanatory
+"What are the key factors affecting soil fertility?",conceptual
+"How does food preservation work?",technical
+"What are the benefits of organic farming?",general
+"Explain the working principle of wind turbines.",explanatory
+"What are the benefits of energy-efficient buildings?",general
+"How does carbon trading work?",conceptual
+"What are the challenges in transitioning to renewable energy?",factual
+"Explain the stages of cognitive development in children.",explanatory
+"What are the key theories of motivation?",conceptual
+"How does memory work in the human brain?",general
+"What are the symptoms of anxiety disorders?",factual
+"Explain the difference between phonetics and phonology.",factual
+"What are the key components of a sentence in syntax?",conceptual
+"How do children acquire language?",explanatory
+"What is the role of NLP in computational linguistics?",technical
+"Explain the principles of color theory.",explanatory
+"What are the key elements of graphic design?",general
+"How does perspective work in photography?",conceptual
+"What is the significance of the Renaissance in art history?",general
+"Explain the concept of harmony in music.",explanatory
+"What are the key elements of a musical composition?",general
+"How does improvisation work in jazz?",conceptual
+"What are the key movements in theater history?",factual
+"Explain the principles of electromagnetism.",explanatory
+"What are the key equations in fluid dynamics?",technical
+"How does quantum entanglement work?",conceptual
+"What is the difference between a scalar and a vector quantity?",factual
+"Explain the concept of genetic drift.",explanatory
+"How does CRISPR technology work?",technical
+"What are the ethical implications of genetic modification?",conceptual
+"What is the difference between mitosis and meiosis?",factual
+"Explain the impact of inflation on an economy.",explanatory
+"How do stock markets function?",conceptual
+"What is the role of central banks in economic policy?",general
+"What is the difference between Keynesian and classical economics?",factual
+"Explain the process of peer review in scientific research.",explanatory
+"How to interpret statistical significance in a study?",technical
+"What are the common biases in psychological research?",conceptual
+"What is the importance of reproducibility in science?",general
+"Explain the difference between supervised and unsupervised learning.",explanatory
+"Write a Python script to implement a binary search tree.",technical
+"What is the time complexity of Dijkstra's algorithm?",technical
+"How does a relational database differ from a NoSQL database?",explanatory
+"Derive the formula for the area under a curve.",factual
+"Explain the Central Limit Theorem.",explanatory
+"How to solve a system of linear equations using matrices?",technical
+"What is the difference between mean and median?",factual
+"Explain the Heisenberg Uncertainty Principle.",explanatory
+"What is the chemical equation for photosynthesis?",factual
+"How does Newton's Third Law apply to rocket propulsion?",conceptual
+"What is the difference between exothermic and endothermic reactions?",explanatory
+"Explain the process of DNA replication.",explanatory
+"What is the role of mitochondria in cellular respiration?",conceptual
+"How does natural selection drive evolution?",conceptual
+"What are the differences between prokaryotic and eukaryotic cells?",factual
+"What are the symptoms of diabetes mellitus?",factual
+"Explain the mechanism of action of antibiotics.",explanatory
+"How does the human immune system respond to viruses?",explanatory
+"What is the difference between a virus and a bacterium?",factual
+"Explain the concept of supply and demand.",conceptual
+"What is the difference between fixed and variable costs?",factual
+"How to calculate net present value (NPV)?",technical
+"What are the key components of a business plan?",factual
+"Explain Maslow's Hierarchy of Needs.",conceptual
+"What are the key theories of social stratification?",conceptual
+"How does the electoral college work in the US?",factual
+"What are the causes of the French Revolution?",factual
+"Analyze the themes in Shakespeare's 'Hamlet'.",conceptual
+"What are the key arguments in Plato's 'Republic'?",conceptual
+"Explain the concept of linguistic relativity.",conceptual
+"What is the significance of the Renaissance in art history?",explanatory
+"What are the key provisions of the US Constitution?",factual
+"Explain the difference between civil and criminal law.",explanatory
+"How does copyright law protect intellectual property?",explanatory
+"What is the role of the International Court of Justice?",factual
+"Explain the greenhouse effect.",explanatory
+"What are the impacts of deforestation on biodiversity?",explanatory
+"How does solar energy work?",explanatory
+"What are the key principles of sustainable development?",conceptual
+"Explain the constructivist approach to learning.",conceptual
+"What are the key components of a lesson plan?",factual
+"How does gamification enhance student engagement?",conceptual
+"What are the challenges in inclusive education?",conceptual
+"Explain the principles of structural engineering.",explanatory
+"What is the difference between AC and DC current?",factual
+"How does a jet engine work?",technical
+"What are the key steps in chemical process design?",technical
+"What is the difference between classification and regression?",explanatory
+"How to create a heatmap in Python using Seaborn?",technical
+"Explain the concept of overfitting in machine learning.",explanatory
+"What are the ethical considerations in data collection?",conceptual
+"Explain the principles of Bauhaus design.",conceptual
+"What are the key considerations in urban planning?",conceptual
+"How does sustainable architecture reduce environmental impact?",explanatory
+"What is the difference between modern and postmodern architecture?",explanatory
+"Explain the process of photosynthesis in plants.",explanatory
+"What are the key factors affecting soil fertility?",explanatory
+"How does food preservation work?",factual
+"What are the benefits of organic farming?",conceptual
+"Explain the working principle of wind turbines.",technical
+"What are the benefits of energy-efficient buildings?",explanatory
+"How does carbon trading work?",conceptual
+"What are the challenges in transitioning to renewable energy?",conceptual
+"Explain the stages of cognitive development in children.",explanatory
+"What are the key theories of motivation?",conceptual
+"How does memory work in the human brain?",explanatory
+"What are the symptoms of anxiety disorders?",factual
+"Explain the difference between phonetics and phonology.",explanatory
+"What are the key components of a sentence in syntax?",technical
+"How do children acquire language?",conceptual
+"What is the role of NLP in computational linguistics?",technical
+"Explain the principles of color theory.",conceptual
+"What are the key elements of graphic design?",technical
+"How does perspective work in photography?",technical
+"What is the significance of the Renaissance in art history?",explanatory
+"Explain the concept of harmony in music.",conceptual
+"What are the key elements of a musical composition?",technical
+"How does improvisation work in jazz?",conceptual
+"What are the key movements in theater history?",factual
+"What is Artificial Intelligence?",general
+"How do clouds form?",general
+"What causes the change of seasons?",general
+"Can you explain how a rainbow forms?",general
+"What is the capital of France?",general
+"How does the water cycle work?",general
+"What is the speed of light?",general
+"What is the largest mammal on Earth?",general
+"Who was the first president of the United States?",general
+"What is the distance from the Earth to the Moon?",general
+"Where does the Amazon rainforest exist?",general
+"What is the tallest mountain in the world?",general
+"Who wrote the novel '1984'?",general
+"How old is the Earth?",general
+"What is the currency of Japan?",general
+"What does DNA stand for?",general
+"How many continents are there?",general
+"Who discovered gravity?",general
+"What is the currency used in the United States?",general
+"What is the longest river in the world?",general
+"Where is the Great Wall of China located?",general
+"Who painted the Mona Lisa?",general
+"How many planets are in our solar system?",general
+"What is the boiling point of water?",general
+"Which animal is known as the King of the Jungle?",general
+"Who invented the telephone?",general
+"What is the most spoken language in the world?",general
+"Where is the Eiffel Tower located?",general
+"How many bones are in the human body?",general
+"What is the smallest country in the world?",general
+"What is the largest ocean on Earth?",general
+"Who is the author of 'Harry Potter'?",general
+"What is the primary ingredient in bread?",general
+"How long does it take for the Earth to orbit the Sun?",general
+"What is the fastest land animal?",general
+"What is the longest-running TV show?",general
+"What is the primary source of energy for the Earth?",general
+"Who was the first man on the moon?",general
+"How many players are on a football team?",general
+"What is the largest desert in the world?",general
+"What is the process by which plants make food?",general
+"Which country has the largest population?",general
+"What is the capital of Australia?",general
+"How do airplanes stay in the air?",general
+"What is the most popular sport in the world?",general
+"What is the deepest part of the ocean?",general
+"What is the largest island in the world?",general
+"What is the name of the longest river in South America?",general
+"Who discovered penicillin?",general
+"What is the main ingredient in sushi?",general
+"What is the tallest building in the world?",general
+"Where is the Sahara Desert located?",general
+"What is the most common blood type?",general
+"How many hours are in a day?",general
+"What is the national bird of the United States?",general
+"What is the oldest known civilization?",general
+"Which planet is closest to the Sun?",general
+"What is the national flower of Japan?",general
+"How many teeth does an adult human have?",general
+"Who is the current president of the United States?",general
+"How many moons does Mars have?",general
+"Who invented the light bulb?",general
+"What is the deepest lake in the world?",general
+"How long is a year on Venus?",general
+"What is the largest country by land area?",general
+"What is the primary function of the heart?",general
+"How does a compass work?",general
+"What is the most expensive material on Earth?",general
+"Which element is essential for the human body?",general
+"What is the most famous painting in the world?",general
+"Who is known as the father of modern physics?",general
+"Which country is home to the Great Barrier Reef?",general
+"What is the world’s largest religion?",general
+"How many languages are spoken in the world?",general
+"Who was the first woman to fly solo across the Atlantic?",general
+"Which country is known for the Pyramids of Giza?",general
+"Where did the Olympic Games originate?",general
+"Who is credited with developing the theory of relativity?",general
+"What is the average temperature of the Earth?",general
+"What is the largest city in the world by population?",general
+"How do plants absorb water?",general
+"Who is the Greek god of the sea?",general
+"What is the most common gas in Earth’s atmosphere?",general
+"Where is the city of Istanbul located?",general
+"Who was the first woman to win a Nobel Prize?",general
+"What is the tallest tree in the world?",general
+"How long does it take light to travel from the Sun to the Earth?",general
+"Where is the Great Barrier Reef?",general
+"What is the coldest place on Earth?",general
+"Which country is known as the Land of the Rising Sun?",general
+"What is the hardest natural substance on Earth?",general
+"How does a vacuum cleaner work?",general
+"Which ocean is the smallest?",general
+"Who painted the Starry Night?",general
+"Where is the Louvre Museum located?",general
+"What is the primary function of the lungs?",general
+"How do animals communicate?",general
+"What is the coldest recorded temperature on Earth?",general
+"Explain the difference between supervised and unsupervised learning.",explanatory
+"Write a Python script to implement a binary search tree.",technical
+"What is the time complexity of Dijkstra's algorithm?",technical
+"How does a relational database differ from a NoSQL database?",explanatory
+"Derive the formula for the area under a curve.",factual
+"Explain the Central Limit Theorem.",explanatory
+"How to solve a system of linear equations using matrices?",technical
+"What is the difference between mean and median?",factual
+"Explain the Heisenberg Uncertainty Principle.",explanatory
+"What is the chemical equation for photosynthesis?",factual
+"How does Newton's Third Law apply to rocket propulsion?",conceptual
+"What is the difference between exothermic and endothermic reactions?",explanatory
+"Explain the process of DNA replication.",explanatory
+"What is the role of mitochondria in cellular respiration?",conceptual
+"How does natural selection drive evolution?",conceptual
+"What are the differences between prokaryotic and eukaryotic cells?",factual
+"What are the symptoms of diabetes mellitus?",factual
+"Explain the mechanism of action of antibiotics.",explanatory
+"How does the human immune system respond to viruses?",explanatory
+"What is the difference between a virus and a bacterium?",factual
+"Explain the concept of supply and demand.",conceptual
+"What is the difference between fixed and variable costs?",factual
+"How to calculate net present value (NPV)?",technical
+"What are the key components of a business plan?",factual
+"Explain Maslow's Hierarchy of Needs.",conceptual
+"What are the key theories of social stratification?",conceptual
+"How does the electoral college work in the US?",factual
+"What are the causes of the French Revolution?",factual
+"Analyze the themes in Shakespeare's 'Hamlet'.",conceptual
+"What are the key arguments in Plato's 'Republic'?",conceptual
+"Explain the concept of linguistic relativity.",conceptual
+"What is the significance of the Renaissance in art history?",explanatory
+"What are the key provisions of the US Constitution?",factual
+"Explain the difference between civil and criminal law.",explanatory
+"How does copyright law protect intellectual property?",explanatory
+"What is the role of the International Court of Justice?",factual
+"Explain the greenhouse effect.",explanatory
+"What are the impacts of deforestation on biodiversity?",explanatory
+"How does solar energy work?",explanatory
+"What are the key principles of sustainable development?",conceptual
+"Explain the constructivist approach to learning.",conceptual
+"What are the key components of a lesson plan?",factual
+"How does gamification enhance student engagement?",conceptual
+"What are the challenges in inclusive education?",conceptual
+"Explain the principles of structural engineering.",explanatory
+"What is the difference between AC and DC current?",factual
+"How does a jet engine work?",technical
+"What are the key steps in chemical process design?",technical
+"What is the difference between classification and regression?",explanatory
+"How to create a heatmap in Python using Seaborn?",technical
+"Explain the concept of overfitting in machine learning.",explanatory
+"What are the ethical considerations in data collection?",conceptual
+"Explain the principles of Bauhaus design.",conceptual
+"What are the key considerations in urban planning?",conceptual
+"How does sustainable architecture reduce environmental impact?",explanatory
+"What is the difference between modern and postmodern architecture?",explanatory
+"Explain the process of photosynthesis in plants.",explanatory
+"What are the key factors affecting soil fertility?",explanatory
+"How does food preservation work?",factual
+"What are the benefits of organic farming?",conceptual
+"Explain the working principle of wind turbines.",technical
+"What are the benefits of energy-efficient buildings?",explanatory
+"How does carbon trading work?",conceptual
+"What are the challenges in transitioning to renewable energy?",conceptual
+"Explain the stages of cognitive development in children.",explanatory
+"What are the key theories of motivation?",conceptual
+"How does memory work in the human brain?",explanatory
+"What are the symptoms of anxiety disorders?",factual
+"Explain the difference between phonetics and phonology.",explanatory
+"What are the key components of a sentence in syntax?",technical
+"How do children acquire language?",conceptual
+"What is the role of NLP in computational linguistics?",technical
+"Explain the principles of color theory.",conceptual
+"What are the key elements of graphic design?",technical
+"How does perspective work in photography?",technical
+"What is the significance of the Renaissance in art history?",explanatory
+"Explain the concept of harmony in music.",conceptual
+"What are the key elements of a musical composition?",technical
+"How does improvisation work in jazz?",conceptual
+"What are the key movements in theater history?",factual
+"What is the capital of Canada?",factual
+"Who invented the steam engine?",factual
+"How many states are in the USA?",factual
+"Who was the first human in space?",factual
+"What is the largest continent?",factual
+"How many elements are in the periodic table?",factual
+"Which animal is known for its black and white stripes?",factual
+"What is the longest river in Africa?",factual
+"Who wrote the novel 'Moby Dick'?",factual
+"How many moons does Jupiter have?",factual
+"What is the currency of the United Kingdom?",factual
+"What is the chemical symbol for gold?",factual
+"Who painted the Sistine Chapel?",factual
+"What is the largest lake in the world?",factual
+"How many continents are there on Earth?",factual
+"Which country is home to the Eiffel Tower?",factual
+"What is the tallest mountain in North America?",factual
+"Who discovered America?",factual
+"What is the most common type of blood group?",factual
+"How many players are on a soccer team?",factual
+"How do plants make food?",explanatory
+"Explain the process of photosynthesis.",explanatory
+"How does a camera work?",explanatory
+"Why do we see lightning before thunder?",explanatory
+"How does the human digestive system work?",explanatory
+"Explain the water cycle.",explanatory
+"How does the human brain process information?",explanatory
+"How does a refrigerator work?",explanatory
+"Why do leaves change color in autumn?",explanatory
+"Explain the difference between an acid and a base.",explanatory
+"How do earthquakes occur?",explanatory
+"How do wind turbines generate electricity?",explanatory
+"Explain how the Internet works.",explanatory
+"How does a thermostat control temperature?",explanatory
+"How do clouds form?",explanatory
+"Explain the process of cell division.",explanatory
+"How does the immune system fight infections?",explanatory
+"Explain the greenhouse effect.",explanatory
+"How does a compass work?",explanatory
+"How do magnets work?",explanatory
+"Write a Python function to reverse a string.",technical
+"Explain how a binary search algorithm works.",technical
+"How does a transistor work in a circuit?",technical
+"What is the purpose of an API in programming?",technical
+"Explain the difference between TCP and UDP protocols.",technical
+"How to implement a linked list in C++?",technical
+"Write a SQL query to find the average age of students in a database.",technical
+"How to perform data cleaning in Python?",technical
+"Explain the use of regular expressions in programming.",technical
+"How does a blockchain work?",technical
+"Write a JavaScript function to find the largest number in an array.",technical
+"Explain the concept of load balancing in cloud computing.",technical
+"How does data encryption work?",technical
+"What is the purpose of a virtual machine in computing?",technical
+"Explain the difference between RESTful and SOAP web services.",technical
+"Write an algorithm to sort an array using quicksort.",technical
+"How does a relational database differ from a NoSQL database?",technical
+"How does machine learning differ from deep learning?",technical
+"What is the purpose of an index in a database?",technical
+"Write a C++ program to implement a stack.",technical
+"What is the theory of relativity?",conceptual
+"Explain the concept of entropy in thermodynamics.",conceptual
+"How does gravity work?",conceptual
+"Explain the concept of supply and demand.",conceptual
+"What is the difference between nature and nurture?",conceptual
+"Explain the concept of free will.",conceptual
+"How do human emotions affect decision making?",conceptual
+"What is the role of ethics in artificial intelligence?",conceptual
+"What is the concept of sustainability?",conceptual
+"Explain the concept of cultural relativism.",conceptual
+"What is the difference between free market and command economy?",conceptual
+"Explain the concept of existentialism.",conceptual
+"What is the idea of the 'American Dream'?",conceptual
+"Explain the concept of peer pressure.",conceptual
+"What is the role of the government in the economy?",conceptual
+"What is the concept of 'survival of the fittest'?",conceptual
+"How does the concept of time travel work in physics?",conceptual
+"What is the difference between realism and idealism?",conceptual
+"Explain the concept of blockchain technology.",conceptual
+"What is the role of artificial intelligence in modern society?",conceptual
+"What is the tallest building in the world?",general
+"Who is the President of the United States?",general
+"How many continents are there?",general
+"Who is the author of 'To Kill a Mockingbird'?",general
+"What is the longest river in the world?",general
+"What is the capital of Japan?",general
+"How many countries are in Africa?",general
+"What is the primary ingredient in pizza dough?",general
+"What is the biggest city in the world?",general
+"Who was the first man on the moon?",general
+"What is the fastest animal on Earth?",general
+"What is the population of China?",general
+"How many hours are in a day?",general
+"Who painted the Mona Lisa?",general
+"Where is the Eiffel Tower located?",general
+"How many moons does Mars have?",general
+"What is the national flower of India?",general
+"What is the currency of Germany?",general
+"How far is the Earth from the Sun?",general
+"What is the name of the first artificial satellite?",general
+"How does quantum computing differ from classical computing?",conceptual
+"Explain the process of photosynthesis in detail.",explanatory
+"How does the heart pump blood through the body?",explanatory
+"Write a Python function to merge two sorted arrays.",technical
+"Explain the concept of Newton’s Laws of Motion and their applications.",conceptual
+"How does a GPS system calculate a user's location?",technical
+"Compare and contrast the theories of natural selection and Lamarckism.",conceptual
+"What is the role of mitochondria in energy production?",explanatory
+"Write a JavaScript program to find all prime numbers up to a given number.",technical
+"How does machine learning differ from traditional programming?",conceptual
+"Explain the concept of entropy in the context of the second law of thermodynamics.",conceptual
+"What are the potential ethical implications of AI in decision-making?",conceptual
+"How does blockchain ensure data security?",technical
+"Explain the process of cellular respiration in humans.",explanatory
+"What is the purpose of a constructor in object-oriented programming?",technical
+"How does a plane achieve lift?",explanatory
+"Describe the major types of renewable energy sources and their benefits.",conceptual
+"Explain the difference between supervised and unsupervised learning.",technical
+"What is the significance of Heisenberg's Uncertainty Principle?",conceptual
+"How do credit ratings affect the economy?",conceptual
+"Describe the difference between an RNA and a DNA molecule.",explanatory
+"How do computers process binary data?",technical
+"Explain the role of artificial intelligence in personalized medicine.",conceptual
+"What is the process of gene editing using CRISPR?",explanatory
+"How does the structure of the blood-brain barrier impact drug delivery?",explanatory
+"Explain the significance of the Turing Test in AI development.",conceptual
+"How does a photovoltaic cell convert sunlight into electricity?",technical
+"What are the major causes of biodiversity loss?",conceptual
+"Explain how a neural network model learns from data.",technical
+"What are the principles of lean manufacturing in business?",conceptual
+"How do modern video compression techniques work?",technical
+"Explain the differences between classical and quantum cryptography.",technical
+"What is the impact of climate change on ocean currents?",conceptual
+"Describe the main differences between classical and quantum mechanics.",conceptual
+"How does a capacitor store energy?",technical
+"Explain the concept of a self-organizing system in biology.",conceptual
+"How do modern search engines rank pages?",technical
+"What are the benefits of sustainable agriculture?",conceptual
+"Explain the process of making a backup in cloud computing.",technical
+"What is the role of the Internet of Things (IoT) in smart homes?",technical
+"How do algorithms drive personalized content on social media?",technical
+"What are the advantages of cloud computing over traditional computing?",conceptual
+"How does a machine learning model evaluate its accuracy?",technical
+"Explain the difference between a microprocessor and a microcontroller.",technical
+"What are the key concepts in behavioral economics?",conceptual
+"How does global warming affect agriculture?",conceptual
+"Describe the difference between an open-source and a proprietary software model.",technical
+"How does gene therapy work to treat genetic disorders?",explanatory
+"What is the significance of the Big Bang Theory in understanding the universe?",conceptual
+"How do self-driving cars use machine learning to navigate?",technical
+"Explain the concept of corporate social responsibility in business.",conceptual
+"What is the difference between a solid, liquid, and gas at the molecular level?",explanatory
+"How does a thermodynamic cycle work in an engine?",technical
+"Describe the function of ribosomes in protein synthesis.",explanatory
+"How do historians determine the authenticity of historical documents?",conceptual
+"Explain how virtual reality (VR) works and its applications.",technical
+"What are the impacts of deforestation on the carbon cycle?",conceptual
+"Describe the key differences between a flat and hierarchical organizational structure.",conceptual
+"What is the role of neurotransmitters in the human nervous system?",explanatory
+"How does the concept of supply and demand affect pricing?",conceptual
+"Explain the importance of peer review in scientific research.",conceptual
+"How does a combustion engine convert chemical energy into mechanical energy?",technical
+"What is the difference between an epidemic and a pandemic?",conceptual
+"How do wind turbines work to generate electricity?",technical
+"What are the components of a nuclear reactor?",technical
+"Describe the principles of object-oriented programming.",technical
+"How does DNA sequencing work?",explanatory
+"What are the advantages of hybrid cloud computing?",conceptual
+"How does DNA replication occur in eukaryotic cells?",explanatory
+"Explain the concept of entropy in information theory.",conceptual
+"What is the significance of the Schrödinger equation in quantum mechanics?",conceptual
+"How do we calculate the distance between Earth and distant galaxies?",technical
+"How does a semiconductor device work?",technical
+"Explain the differences between traditional marketing and digital marketing.",conceptual
+"How does the concept of 'natural law' influence modern legal systems?",conceptual
+"How do social networks use algorithms to suggest friends?",technical
+"What are the main differences between a galaxy and a nebula?",conceptual
+"How does a cryptographic hash function work?",technical
+"What is the role of chloroplasts in plants?",explanatory
+"How does a power grid distribute electricity?",technical
+"Explain the difference between active and passive components in electronics.",technical
+"What is the process of creating a machine learning model from scratch?",technical
+"How do political ideologies influence economic systems?",conceptual
+"What is the importance of the ozone layer?",conceptual
+"How does the concept of 'survival of the fittest' apply to evolution?",conceptual
+"Describe the main features of quantum entanglement.",conceptual
+"How does an electric motor convert electrical energy into mechanical energy?",technical
+"Explain the role of the endocrine system in regulating metabolism.",explanatory
+"What is the difference between static and dynamic programming languages?",technical
+"How does the concept of 'cognitive dissonance' affect human behavior?",conceptual
+"Describe the process of creating a mobile application.",technical
+"How does a computer's central processing unit (CPU) work?",technical
+"Explain the concept of 'feedback loops' in biological systems.",conceptual
+"How does a rocket achieve thrust?",technical
+"What is the process of creating a neural network from scratch?",technical
+"How does soil quality affect plant growth?",conceptual
+"How do the laws of thermodynamics govern energy flow?",conceptual
+"Explain the concept of 'inclusive growth' in economics.",conceptual
+"How do astronomers measure the age of stars?",technical
+"What is the difference between a real and a nominal GDP?",conceptual
+"How do healthcare systems impact a country's economy?",conceptual
+"Explain the concept of the multiverse in physics.",conceptual
+"How does a capacitor function in a circuit?",technical
+"Explain the difference between classical and operant conditioning in psychology.",conceptual
+"How do modern data centers manage huge amounts of data?",technical
+"What is the role of a debugger in software development?",technical
+"Explain the process of natural selection in evolution.",explanatory
+"How does artificial intelligence learn from data?",technical
+"Explain the differences between an open market and a closed market.",conceptual
+"How does a fuel cell work to generate energy?",technical
+"How do bioluminescent organisms produce light?",explanatory
+"Explain the concept of 'market equilibrium' in economics.",conceptual
+"How does a hydroelectric power plant generate electricity?",technical
+"Describe the key principles of agile project management.",conceptual
+"How does a Wi-Fi network function?",technical
+"Explain the process of protein folding.",explanatory
+"How does a computer recognize images?",technical
+"Explain the significance of the Hubble Space Telescope.",conceptual
+"How does the immune system recognize pathogens?",explanatory
+"How does a GPS system determine your position on Earth?",technical
+"Explain the concept of artificial neural networks in deep learning.",technical
+"How does an electromagnet generate a magnetic field?",technical
+"What are the key differences between a single-phase and a three-phase motor?",technical
+"Explain the role of mitochondria in the production of ATP.",explanatory
+"What is the role of antibiotics in fighting bacterial infections?",explanatory
+"Describe the process of genetic inheritance using Mendel’s laws.",explanatory
+"How does the Doppler effect influence sound waves?",explanatory
+"How do modern cryptographic techniques ensure data security?",technical
+"Explain the working principle of a nuclear fusion reactor.",technical
+"What are the primary differences between qualitative and quantitative research methods?",conceptual
+"How does the human body regulate its temperature?",explanatory
+"What is the concept of 'supply-side economics'?",conceptual
+"How does a solar panel convert sunlight into electricity?",technical
+"Describe the major differences between the North and South poles of the Earth.",factual
+"How does an electric car’s battery store energy?",technical
+"Explain the process of photosynthesis in C4 plants.",explanatory
+"What are the advantages and disadvantages of nuclear power?",conceptual
+"How do space telescopes help us understand the universe?",conceptual
+"What is the difference between a phoneme and a morpheme in linguistics?",conceptual
+"How does an internet router forward data packets?",technical
+"Explain the role of the hippocampus in memory formation.",explanatory
+"What is the role of the endoplasmic reticulum in cellular processes?",explanatory
+"How do quantum computers process information differently than classical computers?",conceptual
+"What is the process of fermenting yeast in baking?",explanatory
+"How does genetic modification differ from selective breeding?",conceptual
+"What are the key components of a successful business strategy?",conceptual
+"Explain the difference between an exothermic and an endothermic reaction.",explanatory
+"How does the human eye perceive color?",explanatory
+"What is the relationship between wavelength and frequency in light waves?",conceptual
+"How do semiconductor devices work to control electrical signals?",technical
+"How do sound waves travel through different mediums?",explanatory
+"Explain the principles of operation of a laser.",technical
+"How does blockchain technology ensure security and transparency?",technical
+"Describe the effect of urbanization on biodiversity.",conceptual
+"What are the key features of a successful marketing campaign?",conceptual
+"How do data scientists preprocess data before training a model?",technical
+"What is the significance of the Higgs boson in particle physics?",conceptual
+"Explain the concept of a 'zero-sum' game in game theory.",conceptual
+"How does the concept of a 'balanced diet' impact human health?",conceptual
+"What is the difference between a virus and a bacterium?",explanatory
+"How do self-driving cars use sensor data to make decisions?",technical
+"Explain how a hybrid vehicle combines an internal combustion engine and an electric motor.",technical
+"What is the significance of the Galapagos Islands in the study of evolution?",conceptual
+"How does the immune system recognize and attack foreign invaders?",explanatory
+"Describe the key components of a business continuity plan.",conceptual
+"What are the major differences between a public and private company?",conceptual
+"How does a magnet create a magnetic field?",technical
+"Explain the concept of comparative advantage in international trade.",conceptual
+"How do elements on the periodic table interact chemically?",explanatory
+"Explain how the human body uses insulin to regulate blood sugar levels.",explanatory
+"What are the main principles of lean manufacturing?",conceptual
+"How do plants respond to environmental stress?",explanatory
+"What are the different types of renewable energy sources?",conceptual
+"How do modern cameras use light sensors to capture images?",technical
+"Explain the importance of cybersecurity in the digital age.",conceptual
+"How does a blockchain ensure transparency in financial transactions?",technical
+"What is the purpose of the mitochondria in eukaryotic cells?",explanatory
+"How do space agencies calculate the trajectory of a spacecraft?",technical
+"Explain how the law of supply and demand affects market equilibrium.",conceptual
+"How do artificial intelligence algorithms improve over time?",technical
+"Describe how artificial intelligence is used to predict consumer behavior.",technical
+"How does genetic engineering contribute to agricultural advancements?",conceptual
+"How does an electric generator produce electricity?",technical
+"What is the relationship between gene expression and phenotype?",conceptual
+"How does a GPS system work to track your location?",technical
+"Explain how gravitational waves are detected by observatories.",technical
+"What is the concept of opportunity cost in economics?",conceptual
+"How does a computer perform multi-tasking?",technical
+"How do electric cars regenerate energy during braking?",technical
+"How does the process of cellular respiration differ from photosynthesis?",explanatory
+"How do economists measure the impact of inflation on the economy?",conceptual
+"Describe the different types of machine learning algorithms.",technical
+"How does an ion engine work in spacecraft propulsion?",technical
+"Explain the concept of a 'feedback loop' in environmental science.",conceptual
+"How do weather satellites collect data about the atmosphere?",technical
+"What is the process of neural plasticity in the brain?",explanatory
+"How does the internet enable global communication?",conceptual
+"How do electric circuits work to power devices?",technical
+"Explain the importance of renewable resources in sustainable development.",conceptual
+"How does a server handle multiple requests from clients?",technical
+"Explain the concept of ecosystem services in environmental science.",conceptual
+"How do microorganisms affect the nitrogen cycle?",explanatory
+"How does artificial intelligence detect patterns in big data?",technical
+"Explain the significance of the Law of Large Numbers in probability theory.",conceptual
+"How does a cell membrane control the movement of substances?",explanatory
+"What are the main differences between classical and operant conditioning?",conceptual
+"How do turbines convert mechanical energy into electrical energy?",technical
+"Explain how the internet has transformed modern communication.",conceptual
+"How does the human body regulate blood pressure?",explanatory
+"What is the process of synaptic transmission in neurons?",explanatory
+"How does deep learning work to improve artificial intelligence?",technical
+"How do environmental pollutants affect human health?",conceptual
+"How does the concept of sustainability apply to urban planning?",conceptual
+"Explain how the electromagnetic spectrum is used in communication technologies.",technical
+"How does photosynthesis differ in C3 and C4 plants?",explanatory
+"How do engineers design structures to withstand earthquakes?",technical
+"Explain the significance of the Theory of Evolution by Natural Selection.",conceptual
+"How do soil microorganisms affect plant growth?",explanatory
+"Describe the role of antioxidants in preventing cellular damage.",explanatory
+"How does the principle of leverage work in mechanical systems?",technical
+"How does a deep neural network recognize objects in images?",technical
+"Explain the role of neurotransmitters in regulating mood and emotions.",explanatory
+"What are the key steps in conducting a randomized controlled trial?",conceptual
+"How do autonomous vehicles use radar and lidar to detect obstacles?",technical
+"Describe the economic impact of renewable energy adoption on local communities.",conceptual
+"How does an artificial satellite maintain its orbit around Earth?",technical
+"Explain the concept of 'greenwashing' in sustainability.",conceptual
+"How do advances in biotechnology improve healthcare outcomes?",conceptual
+"How does the digestive system break down food for nutrient absorption?",explanatory
+"How does the concept of 'post-quantum cryptography' address future security challenges?",technical
+"Explain the difference between a central bank and a commercial bank.",conceptual
+"How do solar panels generate electricity from sunlight?",technical
+"Explain the concept of 'cloud computing' and its applications.",technical
+"Can you explain in detail how machine learning algorithms adapt over time through supervised and unsupervised learning techniques, and what are the practical implications of these adaptations in real-world applications?",technical
+"What are the fundamental differences between classical mechanics and quantum mechanics, particularly in how they explain the behavior of particles at subatomic levels, and how do these differences influence modern physics?",conceptual
+"Can you describe the process by which renewable energy sources, such as wind and solar power, are integrated into existing power grids, and what challenges are involved in making these systems more efficient and reliable?",technical
+"How do environmental factors such as temperature, humidity, and atmospheric pressure influence the rate of chemical reactions in both natural and industrial settings, and how can this knowledge be applied to improve reaction efficiency?",explanatory
+"Can you provide a detailed comparison of the impacts of different types of renewable energy, including solar, wind, geothermal, and hydroelectric, on local ecosystems and their role in reducing carbon emissions globally?",conceptual
+"What are the key principles of cognitive behavioral therapy (CBT), and how does this therapeutic approach help individuals understand and modify their thought patterns to manage mental health conditions like anxiety and depression?",explanatory
+"How do advanced quantum algorithms work in solving problems that classical computers cannot efficiently address, particularly in areas such as cryptography, optimization, and simulation of quantum systems?",technical
+"Can you explain the concept of neural plasticity in the human brain, particularly how it enables individuals to recover from brain injuries and how this adaptability influences learning and memory formation?",explanatory
+"How do the principles of thermodynamics govern the behavior of systems at both the macroscopic and microscopic levels, and what role do they play in the design of efficient engines and refrigeration systems?",conceptual
+"What is the process of climate change caused by human activities, how do greenhouse gases like carbon dioxide and methane trap heat in the Earth’s atmosphere, and what are the global consequences of these changes for biodiversity and ecosystems?",explanatory
+"Can you explain the difference between a classical and a modern database management system, particularly in terms of how data is structured, retrieved, and manipulated, and how these systems are designed to scale with large datasets?",technical
+"What are the main differences between procedural and object-oriented programming paradigms, and how do these paradigms affect the way software is developed, maintained, and extended over time in complex systems?",technical
+"How does artificial intelligence, specifically natural language processing (NLP), enable machines to understand and generate human language, and what are the challenges involved in making NLP systems more accurate and context-aware?",technical
+"Could you explain how photosynthesis occurs in plants at a molecular level, focusing on the roles of chlorophyll, light energy, and the Calvin cycle, and how environmental factors like light intensity and carbon dioxide levels influence this process?",explanatory
+"Can you describe the process through which energy stored in fossil fuels, such as coal, oil, and natural gas, is released during combustion, and what are the environmental impacts of these energy sources in terms of greenhouse gas emissions and air pollution?",explanatory
+"How does the principle of opportunity cost affect decision-making in both personal finance and business strategy, particularly when choosing between different investment opportunities or resource allocation decisions?",conceptual
+"Can you provide an overview of how the concept of entropy in thermodynamics relates to the disorder of a system, and how this concept has been applied to understanding processes like the cooling of gases and the behavior of isolated systems?",conceptual
+"Can you explain how the role of neurotransmitters like dopamine, serotonin, and norepinephrine influence emotional regulation, decision-making, and cognitive function in individuals with mental health disorders?",explanatory
+"How do electric vehicles (EVs) use regenerative braking to recover kinetic energy and store it in the battery, and how does this technology contribute to improving the overall energy efficiency and range of EVs?",technical
+"Can you explain how blockchain technology works to securely and transparently store data across multiple distributed networks, and what potential applications could benefit from this technology beyond cryptocurrencies?",technical
+"Could you describe how global trade and supply chains are affected by international trade policies, tariffs, and economic sanctions, and what strategies businesses and governments employ to adapt to these factors in a rapidly changing global market?",conceptual
+"How does the process of genetic recombination during meiosis contribute to genetic diversity in sexually reproducing organisms, and what are the implications of this process for evolution and natural selection?",explanatory
+"Can you describe the process through which gravitational waves are detected using highly sensitive instruments like LIGO, and how these waves help scientists learn more about phenomena such as black holes and the Big Bang?",technical
+"Can you explain how the human immune system distinguishes between pathogens and normal body cells, and how this system mounts an immune response to protect against infections, while also avoiding damaging autoimmune reactions?",explanatory
+"How do modern data science techniques like machine learning, big data analytics, and predictive modeling work together to drive decision-making in industries such as healthcare, finance, and marketing?",technical
+"Can you provide a detailed explanation of the stages of human development according to Erik Erikson's psychosocial development theory, focusing on the key challenges and achievements during each stage of life?",conceptual
+"How do the major structures of the human brain, such as the cortex, cerebellum, and limbic system, contribute to different cognitive functions, including learning, memory, emotion regulation, and decision-making?",explanatory
+"How does the interaction between the Earth’s magnetic field and solar wind give rise to auroras, and what does this phenomenon tell us about the dynamics of space weather and its potential effects on Earth?",explanatory
+"Can you describe how a typical machine learning workflow progresses from collecting raw data to deploying a trained model, and what are the key challenges faced in each stage of the process?",technical
+"How do the principles of sustainable agriculture, such as crop rotation, organic farming, and agroforestry, help improve soil health, biodiversity, and food security, and what role do these practices play in mitigating climate change?",conceptual
+"Can you explain the process of gene expression in eukaryotic cells, focusing on the roles of transcription, translation, and post-transcriptional modifications, and how these processes regulate cellular function?",explanatory
+"How does the concept of the 'tragedy of the commons' apply to environmental resource management, and what are some effective strategies for managing shared resources like fisheries, forests, and water supplies?",conceptual
+"Can you explain how the structure of the atom, including subatomic particles like protons, neutrons, and electrons, dictates the behavior of elements in chemical reactions, and how this knowledge is applied in various industries like pharmaceuticals and materials science?",technical
+"How does an electric circuit work, including the role of resistors, capacitors, inductors, and transistors, and how are these components used in designing devices such as radios, computers, and power supplies?",technical
+"What are the primary advantages of using artificial intelligence in healthcare diagnostics, particularly in the early detection of diseases like cancer, heart disease, and neurological disorders?",conceptual
+"Can you explain the different types of financial markets, such as stock markets, bond markets, and commodity markets, and how these markets facilitate the flow of capital in the global economy?",conceptual
+"How does a typical nuclear power plant generate electricity through nuclear fission, and what safety measures are employed to prevent accidents and minimize the environmental impact of radioactive waste?",technical
+"Can you explain the process of photosynthesis in algae, focusing on the differences in light absorption and energy conversion compared to land plants, and how these differences influence their ecological role in aquatic ecosystems?",explanatory
+"How does the concept of 'cognitive dissonance' explain the discomfort people feel when their beliefs and actions are inconsistent, and what strategies can individuals use to resolve this psychological conflict?",conceptual
+"Can you explain how deep learning models, such as convolutional neural networks (CNNs), are used to analyze and classify images, and what are the major advantages of using deep learning over traditional image processing methods?",technical
+"What are the key differences between the market-based and command-based economic systems, and how do these differences affect the allocation of resources, the distribution of wealth, and the efficiency of economic production?",conceptual
+"Can you explain the significance of the Pythagorean theorem in geometry and how it is applied in various real-world scenarios, such as construction, navigation, and computer graphics?",technical
+"How does the process of soil erosion contribute to the degradation of agricultural land, and what strategies can be implemented to prevent or mitigate this process in farming and land management?",conceptual
+"Can you describe how gravitational lensing works and how astronomers use this phenomenon to study distant objects in space, including galaxies and black holes, and what it reveals about the nature of the universe?",technical
+"How does the theory of relativity, both special and general, revolutionize our understanding of space, time, and gravity, and how have these ideas been experimentally validated through phenomena such as time dilation and gravitational lensing?",conceptual
+"Can you describe the mechanism behind the immune system's ability to recognize and fight off viral infections, including the role of T-cells, B-cells, and antibodies in the adaptive immune response?",explanatory
+"What are the key principles of quantum mechanics, including wave-particle duality, the uncertainty principle, and quantum entanglement, and how do these principles influence the behavior of particles at the atomic and subatomic levels?",conceptual
+"Can you explain how the use of artificial intelligence in natural language processing (NLP) has enabled machines to understand and generate human language, and what are the challenges in achieving human-like language comprehension and generation?",technical
+"How do modern cloud computing architectures, particularly the use of virtual machines and containerization, enable efficient resource management, scalability, and fault tolerance in large-scale distributed systems?",technical
+"Can you describe how cognitive biases, such as confirmation bias and anchoring bias, influence decision-making and how these biases can be mitigated in personal and professional contexts, particularly in high-stakes environments like medicine and law?",conceptual
+"How does the process of protein synthesis occur in eukaryotic cells, and what roles do ribosomes, mRNA, tRNA, and amino acids play in translating genetic information into functional proteins?",explanatory
+"Can you explain how the concept of entropy relates to the second law of thermodynamics and how it can be used to understand the behavior of energy in isolated systems, such as during heat transfer and chemical reactions?",conceptual
+"How does the application of machine learning algorithms in predictive analytics allow businesses to forecast trends and behaviors, and what are the ethical implications of using AI in decision-making processes in areas like hiring and credit scoring?",technical
+"Can you explain how the field of bioinformatics combines biology, computer science, and statistics to analyze and interpret complex biological data, and what are some of the key challenges in analyzing genomic sequences?",technical
+"What are the key differences between traditional and modern management approaches, including leadership styles, organizational structure, and decision-making processes, and how have these approaches evolved in the face of globalization and technological advancement?",conceptual
+"How does blockchain technology, beyond cryptocurrency, offer solutions for securing digital transactions and ensuring transparency in industries such as supply chain management, healthcare, and voting systems?",technical
+"Can you describe the principles of supply and demand in economics and explain how changes in these factors lead to shifts in market equilibrium prices and quantities, using real-world examples from the housing or labor markets?",conceptual
+"What are the core principles of sustainable urban planning, and how do cities incorporate these principles to reduce environmental impact, promote social equity, and ensure long-term resilience to climate change?",conceptual
+"How does the Doppler effect influence our understanding of wave phenomena, such as sound and light, and how is this effect used in practical applications like weather forecasting, medical imaging, and astronomy?",explanatory
+"Can you explain how the concept of evolutionary fitness is used in biology to describe an organism's ability to survive and reproduce, and how does this concept shape our understanding of natural selection and adaptation in species over time?",conceptual
+"How does the design of an electric vehicle’s battery system, including the use of lithium-ion batteries and charging infrastructure, enable sustainable transportation, and what challenges remain in making EVs more affordable and widely accessible?",technical
+"Can you describe the steps involved in conducting a clinical trial, from study design to data collection and analysis, and how do researchers ensure that the trial results are statistically valid and ethically sound?",explanatory
+"How do the principles of quantum entanglement and superposition enable quantum computers to perform calculations at speeds far exceeding classical computers, and what are the practical implications of quantum computing for industries like cryptography and material science?",technical
+"Can you explain the process of ecological succession, including primary and secondary succession, and how these processes contribute to the development of ecosystems over time in response to disturbances?",explanatory
+"How does the concept of social stratification help explain the unequal distribution of wealth, power, and resources in society, and what are some of the major theories that attempt to explain the causes and consequences of this inequality?",conceptual
+"Can you describe the mechanisms by which artificial intelligence algorithms are trained using large datasets, and how do techniques such as supervised learning, unsupervised learning, and reinforcement learning differ in terms of their application and effectiveness?",technical
+"How does the theory of plate tectonics explain the movement of Earth's lithospheric plates, and what role does this theory play in our understanding of geological phenomena such as earthquakes, volcanoes, and mountain formation?",conceptual
+"Can you explain how neural networks, particularly deep learning models, use layers of interconnected nodes to recognize patterns in data, and how this approach has been applied in fields like image recognition, speech processing, and autonomous vehicles?",technical
+"How do different approaches to managing public health crises, such as vaccination campaigns and social distancing measures, vary in terms of effectiveness and ethical considerations, and what lessons have been learned from the COVID-19 pandemic?",conceptual
+"Can you describe the key differences between the theories of classical and operant conditioning in psychology, and how are these theories applied in real-world settings such as education, behavior therapy, and animal training?",conceptual
+"How do ecosystem services, such as pollination, water purification, and carbon sequestration, benefit both natural systems and human societies, and what are the challenges involved in maintaining these services in the face of environmental degradation?",explanatory
+"Can you explain how the human circulatory system, including the heart, blood vessels, and blood, works to transport oxygen, nutrients, and waste products throughout the body, and how disruptions to this system can lead to cardiovascular diseases?",explanatory
+"How does the concept of the circular economy differ from traditional models of production and consumption, and what are some of the key strategies for transitioning to a circular economy that promotes resource efficiency and sustainability?",conceptual
+"Can you describe how the process of diffusion influences the movement of molecules across cell membranes, and what factors, such as temperature and concentration gradients, affect the rate of diffusion in biological systems?",explanatory
+"How does the use of big data analytics in healthcare enable predictive modeling of disease outbreaks and individual patient outcomes, and what are the ethical challenges involved in collecting, storing, and analyzing healthcare data?",technical
+"Can you explain the key principles of evolutionary game theory, and how does this field of study help us understand competitive and cooperative behaviors in populations of organisms, including humans, across various ecological and social contexts?",conceptual
+"How do microservices architectures in software engineering differ from monolithic architectures, and what are the advantages of using microservices for developing scalable, flexible, and fault-tolerant applications?",technical
+"Can you describe the role of mitochondria in cellular energy production, and how do mitochondrial dysfunctions contribute to diseases such as neurodegenerative disorders, heart disease, and diabetes?",explanatory
+"How does the concept of the tragedy of the commons explain the depletion of shared resources, such as fisheries and forests, and what are the most effective policy interventions for managing these resources in a sustainable way?",conceptual
+"Can you explain the principles behind the operation of a laser, including how light amplification and stimulated emission of radiation work, and what are some common applications of lasers in medicine, telecommunications, and industry?",technical
+"How does the process of DNA sequencing allow scientists to decipher the genetic code, and what are the potential applications of genomic data in fields such as personalized medicine, biotechnology, and forensic science?",technical
+"Can you describe how the principles of thermodynamics are applied in the design of efficient heat engines, and what role do concepts like heat transfer, energy conservation, and entropy play in maximizing engine performance?",conceptual
+"How do the phases of the moon affect tidal patterns on Earth, and what impact do these tidal forces have on marine ecosystems, as well as human activities such as fishing and coastal development?",explanatory
+"Can you explain the role of artificial intelligence in automating tasks such as customer service, data entry, and supply chain management, and what are the potential benefits and risks associated with increasing automation in the workforce?",conceptual
+"How does the process of sedimentation lead to the formation of sedimentary rocks, and what are the various environmental and geological factors that influence sediment transport and deposition over time?",explanatory
+"Can you explain how the principles of behavioral economics challenge traditional economic models, particularly in terms of human decision-making and irrational behavior in markets, and how these principles are used in policy design?",conceptual
+"Write a JavaScript function to validate an email address format.",technical
+"What is the difference between TCP and UDP protocols?",factual
+"Explain how gradient descent optimization works in machine learning.",explanatory
+"Describe the steps to implement OAuth 2.0 authentication in a web app.",technical
+"What causes seasons on Earth?",explanatory
+"Compare agile and waterfall software development methodologies.",conceptual
+"Write SQL queries to calculate monthly sales growth.",technical
+"How do vaccines provide immunity against diseases?",explanatory
+"What is the significance of Pareto efficiency in economics?",conceptual
+"List three advantages of cloud computing over on-premise infrastructure.",factual
+"Explain the role of DNS in internet communication.",explanatory
+"Design a REST API endpoint for a user profile management system.",technical
+"What are the ethical implications of CRISPR gene editing?",conceptual
+"Derive the equation for gravitational potential energy.",technical
+"How does HTTPS ensure data security compared to HTTP?",explanatory
+"What defines a Brønsted-Lowry acid?",factual
+"Explain how blockchain technology prevents double-spending.",explanatory
+"Write a regex pattern to match ISO 8601 date formats.",technical
+"Discuss Heisenberg's uncertainty principle and its philosophical implications.",conceptual
+"What is the role of NAD+ in cellular respiration?",factual
+"Explain the causes and effects of the Great Depression.",explanatory
+"Implement a singleton design pattern in Java.",technical
+"How do supply and demand curves determine market equilibrium?",conceptual
+"What are the key components of a neural network architecture?",factual
+"Describe the steps to optimize website performance for Core Web Vitals.",technical
+"Why do some materials exhibit superconductivity at low temperatures?",explanatory
+"Compare symmetric and asymmetric encryption algorithms.",conceptual
+"Write a Bash script to monitor disk usage and send email alerts.",technical
+"What is the difference between mass and weight?",factual
+"Explain how photosynthesis and cellular respiration form a cycle.",explanatory
+"Analyze the trade-offs between SQL and NoSQL databases.",conceptual
+"Create a Dockerfile for a Node.js microservice.",technical
+"What causes auroras at the Earth's poles?",explanatory
+"Describe the CAP theorem and its relevance to distributed systems.",conceptual
+"Write a C++ program to find the longest common subsequence.",technical
+"How does the human immune system respond to viral infections?",explanatory
+"What is the significance of the Miller-Urey experiment?",conceptual
+"List the layers of the OSI model in order.",factual
+"Explain the process of protein synthesis in eukaryotic cells.",explanatory
+"Design a database schema for an e-commerce platform.",technical
+"What are the assumptions underlying the rational choice theory?",conceptual
+"Derive the formula for compound interest.",technical
+"How does the placebo effect challenge clinical trial designs?",conceptual
+"Write a Python script to scrape data from a paginated website.",technical
+"What is the Second Law of Thermodynamics?",factual
+"Explain how convolutional neural networks detect image features.",explanatory
+"Compare imperative and declarative programming paradigms.",conceptual
+"Implement a responsive navigation bar using CSS Grid.",technical
+"Why do economists use GDP as a measure of economic health?",explanatory
+"What are the primary functions of the liver?",factual
+"Describe how public-key cryptography ensures secure communication.",explanatory
+"Write a Terraform configuration for AWS EC2 instance provisioning.",technical
+"How does game theory model oligopolistic market behavior?",conceptual
+"What causes antibiotic resistance in bacteria?",explanatory
+"Design a state machine for a vending machine.",technical
+"Explain the sociological concept of 'habitus' proposed by Bourdieu.",explanatory
+"Compare mitosis and meiosis in terms of genetic diversity.",conceptual
+"Write a cron job to back up MySQL databases nightly.",technical
+"What is the Doppler effect and where is it observed?",factual
+"Explain how blockchain consensus algorithms like Proof of Work operate.",explanatory
+"Analyze the strengths and weaknesses of the waterfall model.",conceptual
+"Create a Git workflow for collaborative feature branching.",technical
+"How do cultural dimensions influence international business practices?",conceptual
+"List the steps in the scientific method.",factual
+"Explain the mechanisms behind inflation in economics.",explanatory
+"Write a TypeScript interface for a product inventory system.",technical
+"What distinguishes machine learning from traditional programming?",conceptual
+"Derive the kinematic equation for constant acceleration.",technical
+"How does the Flynn effect challenge IQ measurement validity?",conceptual
+"Implement JWT authentication in a Spring Boot application.",technical
+"What are the characteristics of a perfectly competitive market?",factual
+"Explain how RNA interference regulates gene expression.",explanatory
+"Compare relational and graph database query performance.",conceptual
+"Write a PowerShell script to automate Azure VM deployments.",technical
+"What causes chromatic aberration in lenses?",explanatory
+"Describe the process of galvanic corrosion in metals.",explanatory
+"Design a circuit for a 4-bit binary counter.",technical
+"How does prospect theory explain decision-making under risk?",conceptual
+"List the planets in our solar system from closest to farthest from the Sun.",factual
+"What is the capital of France?",factual
+"Explain the process of photosynthesis in plants.",explanatory
+"Write a Python script to sort a list of dictionaries by a specific key.",technical
+"How does cognitive dissonance influence decision-making?",conceptual
+"What are the main components of a computer?",general
+"List the planets in the solar system in order of their distance from the Sun.",factual
+"Describe how the human digestive system processes food.",explanatory
+"Implement a linked list data structure in Java.",technical
+"What are the implications of the prisoner's dilemma in game theory?",conceptual
+"How do you troubleshoot a slow internet connection?",general
+"What is the boiling point of water at sea level?",factual
+"Explain the role of neurotransmitters in brain function.",explanatory
+"Write a SQL query to find the second highest salary in a table.",technical
+"How does the concept of 'opportunity cost' apply to everyday life?",conceptual
+"What are the best practices for securing a Wi-Fi network?",general
+"What is the chemical formula for water?",factual
+"Describe the steps involved in the water cycle.",explanatory
+"Create a Docker container for a Python Flask application.",technical
+"How does the theory of relativity challenge Newtonian physics?",conceptual
+"What are the key features of a good user interface design?",general
+"What is the largest mammal on Earth?",factual
+"Explain how vaccines work to provide immunity.",explanatory
+"Write a Bash script to automate file backups.",technical
+"What are the ethical considerations of artificial intelligence?",conceptual
+"How do you perform a system restore on Windows?",general
+"What is the speed of light in a vacuum?",factual
+"Describe the process of cellular respiration in mitochondria.",explanatory
+"Design a REST API for a blog application.",technical
+"How does behavioral economics explain irrational consumer behavior?",conceptual
+"What are the steps to set up a VPN on a smartphone?",general
+"What is the atomic number of carbon?",factual
+"Explain the causes and effects of global warming.",explanatory
+"Write a C++ program to implement a stack data structure.",technical
+"How does the concept of 'confirmation bias' affect scientific research?",conceptual
+"What are the benefits of using version control systems like Git?",general
+"What is the formula for calculating the area of a circle?",factual
+"Describe the process of DNA replication in cells.",explanatory
+"Create a Kubernetes deployment for a microservice architecture.",technical
+"How does the concept of 'social capital' influence community development?",conceptual
+"What are the common symptoms of a failing hard drive?",general
+"What is the freezing point of mercury?",factual
+"Explain the role of enzymes in biochemical reactions.",explanatory
+"Write a Python script to scrape data from a website using BeautifulSoup.",technical
+"How does the 'invisible hand' concept apply to market economies?",conceptual
+"What are the best practices for writing clean code?",general
+"What is the molecular structure of glucose?",factual
+"Describe the process of mitosis and its importance in cell division.",explanatory
+"Implement a binary search algorithm in JavaScript.",technical
+"How does the 'tragedy of the commons' apply to environmental issues?",conceptual
+"What are the steps to configure a firewall on a Linux server?",general
+"What is the pH value of pure water?",factual
+"Explain the role of the kidneys in maintaining homeostasis.",explanatory
+"Write a Terraform script to provision AWS resources.",technical
+"How does the concept of 'bounded rationality' affect decision-making?",conceptual
+"What are the key differences between HTTP and HTTPS?",general
+"What is the chemical symbol for gold?",factual
+"Describe the process of protein synthesis in ribosomes.",explanatory
+"Create a CI/CD pipeline using GitHub Actions.",technical
+"How does the 'Pareto principle' apply to productivity and efficiency?",conceptual
+"What are the steps to optimize a website for search engines?",general
+"What is the atomic weight of oxygen?",factual
+"Explain the role of the ozone layer in protecting Earth.",explanatory
+"Write a Python script to generate Fibonacci numbers.",technical
+"How does the concept of 'moral hazard' apply to insurance markets?",conceptual
+"What are the best practices for data encryption?",general
+"What is the formula for Newton's second law of motion?",factual
+"Describe the process of meiosis and its role in genetic diversity.",explanatory
+"Implement a graph traversal algorithm like Dijkstra's in Python.",technical
+"How does the concept of 'nudge theory' influence public policy?",conceptual
+"What are the steps to recover lost data from a corrupted hard drive?",general
+"What is the chemical formula for table salt?",factual
+"Explain the role of the liver in detoxifying the body.",explanatory
+"Write a SQL query to calculate the average salary by department.",technical
+"How does the concept of 'loss aversion' affect investment decisions?",conceptual
+"What are the key features of a responsive web design?",general
+"What is the melting point of iron?",factual
+"Describe the process of pollination in flowering plants.",explanatory
+"Create a Python script to automate sending emails using SMTP.",technical
+"How does the concept of 'social proof' influence consumer behavior?",conceptual
+"What are the steps to set up a secure SSH connection?",general
+"What is the chemical formula for sulfuric acid?",factual
+"Explain the role of the pituitary gland in hormone regulation.",explanatory
+"Write a Bash script to monitor CPU and memory usage.",technical
+"How does the concept of 'anchoring bias' affect negotiations?",conceptual
+"What are the best practices for managing remote teams?",general
+"What is the speed of sound in air at room temperature?",factual
+"Describe the process of nitrogen fixation in ecosystems.",explanatory
+"Implement a machine learning model to classify handwritten digits.",technical
+"How does the concept of 'reciprocity' influence social interactions?",conceptual
+"What are the steps to configure a load balancer for a web application?",general
+"What is the chemical formula for methane?",factual
+"Explain the role of the hypothalamus in regulating body temperature.",explanatory
+"Write a Python script to parse JSON data from an API.",technical
+"How does the concept of 'cognitive load' affect learning and memory?",conceptual
+"What are the best practices for securing a mobile application?",general
+"What is the atomic number of helium?",factual
+"Describe the process of fermentation in yeast cells.",explanatory
+"Create a Python script to visualize data using Matplotlib.",technical
+"How does the concept of 'groupthink' affect decision-making in teams?",conceptual
+"What are the steps to troubleshoot a network connectivity issue?",general
+"What is the chemical formula for ammonia?",factual
+"Explain the role of the adrenal glands in the stress response.",explanatory
+"Write a SQL query to find duplicate records in a table.",technical
+"How does the concept of 'sunk cost fallacy' affect business decisions?",conceptual
+"What are the best practices for writing effective unit tests?",general
+"What is the boiling point of ethanol?",factual
+"Describe the process of osmosis in plant cells.",explanatory
+"Implement a Python script to perform sentiment analysis on text data.",technical
+"How does the concept of 'availability heuristic' affect risk assessment?",conceptual
+"What are the steps to configure a VPN on a router?",general
+"What is the chemical formula for carbon dioxide?",factual
+"Explain the role of the thyroid gland in metabolism.",explanatory
+"Write a Bash script to automate the deployment of a web application.",technical
+"How does the concept of 'confirmation bias' affect scientific research?",conceptual
+"What are the best practices for managing database backups?",general
+"What is the atomic weight of nitrogen?",factual
+"Describe the process of transcription and translation in protein synthesis.",explanatory
+"Create a Python script to interact with a PostgreSQL database.",technical
+"How does the concept of 'moral licensing' affect ethical behavior?",conceptual
+"What are the steps to optimize a database for performance?",general
+"What is the chemical formula for hydrogen peroxide?",factual
+"Explain the role of the pancreas in regulating blood sugar levels.",explanatory
+"Write a Python script to perform web scraping using Selenium.",technical
+"How does the concept of 'framing effect' influence decision-making?",conceptual
+"What are the best practices for writing secure code?",general
+"Can you explain the process of how blockchain technology ensures data integrity and security, including the role of cryptographic hashing, consensus algorithms, and decentralized networks, and how these features are applied in industries like finance, healthcare, and supply chain management?",technical
+"How does the human brain process and store memories, and what are the neurological mechanisms behind short-term and long-term memory formation, including the roles of the hippocampus, synapses, and neurotransmitters like glutamate and dopamine?",explanatory
+"What are the key differences between classical and operant conditioning in psychology, and how do these theories explain human and animal behavior, with examples of their applications in education, therapy, and behavioral modification?",conceptual
+"Can you describe the steps involved in the development of a machine learning model, from data collection and preprocessing to model training, validation, and deployment, including the challenges of overfitting, bias, and scalability?",technical
+"How does the process of climate change impact global ecosystems, including the effects on biodiversity, ocean acidification, and extreme weather events, and what are the most effective strategies for mitigation and adaptation at both individual and governmental levels?",explanatory
+"What are the principles behind quantum computing, and how do quantum bits (qubits) differ from classical bits in terms of superposition, entanglement, and parallelism, with examples of potential applications in cryptography, optimization, and material science?",conceptual
+"Can you explain the role of the immune system in fighting infections, including the differences between innate and adaptive immunity, the functions of antibodies, T-cells, and B-cells, and how vaccines leverage these mechanisms to provide protection?",explanatory
+"How do economic policies like fiscal stimulus, quantitative easing, and interest rate adjustments influence inflation, unemployment, and GDP growth, and what are the trade-offs and risks associated with each approach in different economic contexts?",conceptual
+"Can you describe the process of how renewable energy sources like solar, wind, and hydroelectric power are harnessed and converted into electricity, including the technological challenges, environmental impacts, and future prospects for global energy transition?",technical
+"What are the ethical implications of genetic engineering technologies like CRISPR-Cas9, particularly in terms of human germline editing, agricultural modifications, and the potential for unintended consequences on ecosystems and biodiversity?",conceptual
+"How does the process of natural selection drive evolution, and what are the mechanisms behind genetic variation, mutation, and speciation, with examples of how these processes have shaped the diversity of life on Earth?",explanatory
+"Can you explain the principles of how artificial neural networks mimic the human brain, including the roles of layers, weights, activation functions, and backpropagation, and how these concepts are applied in deep learning models for image recognition and natural language processing?",technical
+"What are the key factors that contribute to the rise and fall of civilizations throughout history, including environmental, economic, political, and cultural influences, and how can these lessons inform modern societal development?",conceptual
+"How does the process of photosynthesis convert light energy into chemical energy, and what are the roles of chlorophyll, the Calvin cycle, and electron transport chains in this process, with examples of how plants adapt to different environmental conditions?",explanatory
+"Can you describe the challenges and solutions in developing autonomous vehicles, including the roles of sensors, machine learning algorithms, and regulatory frameworks, and how these technologies are expected to transform transportation and urban planning?",technical
+"What are the psychological and sociological factors that influence group behavior and decision-making, including concepts like conformity, groupthink, and social identity, and how can these dynamics be managed to improve teamwork and organizational outcomes?",conceptual
+"How does the process of plate tectonics shape the Earth's surface, including the formation of mountains, earthquakes, and volcanic activity, and what are the implications for natural disaster preparedness and resource exploration?",explanatory
+"Can you explain the principles of how cryptography secures digital communication, including the differences between symmetric and asymmetric encryption, the role of public and private keys, and how technologies like SSL/TLS protect online transactions?",technical
+"What are the key challenges in addressing global poverty, including the roles of education, healthcare, infrastructure, and economic policies, and how can international cooperation and innovation contribute to sustainable development goals?",conceptual
+"How does the process of cellular aging and senescence contribute to the development of age-related diseases, and what are the biological mechanisms behind telomere shortening, oxidative stress, and mitochondrial dysfunction?",explanatory
+"Can you describe the principles of how virtual reality (VR) and augmented reality (AR) technologies work, including the roles of headsets, motion tracking, and 3D rendering, and how these technologies are being applied in gaming, education, and healthcare?",technical
+"How does the interplay between technological advancements, socio-economic policies, and environmental sustainability influence the future of urban development, and what are the key challenges and opportunities in creating smart cities that balance economic growth, social equity, and ecological preservation, while addressing issues such as population density, resource management, climate resilience, and digital divide?",general

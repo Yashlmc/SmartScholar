@@ -1,0 +1,16 @@
+Improvements to the basic process above can be applied at different stages in the RAG flow.
+
+Encoder
+These methods focus on the encoding of text as either dense or sparse vectors. Sparse vectors, which encode the identity of a word, are typically dictionary-length and contain mostly zeros. Dense vectors, which encode meaning, are more compact and contain fewer zeros. Various enhancements can improve the way similarities are calculated in the vector stores (databases).[17]
+
+Performance improves by optimizing how vector similarities are calculated. Dot products enhance similarity scoring, while approximate nearest neighbor (ANN) searches improve retrieval efficiency over K-nearest neighbors (KNN) searches.[18]
+Accuracy may be improved with Late Interactions, which allow the system to compare words more precisely after retrieval. This helps refine document ranking and improve search relevance.[19]
+Hybrid vector approaches may be used to combine dense vector representations with sparse one-hot vectors, taking advantage of the computational efficiency of sparse dot products over dense vector operations.[17]
+Other retrieval techniques focus on improving accuracy by refining how documents are selected. Some retrieval methods combine sparse representations, such as SPLADE, with query expansion strategies to improve search accuracy and recall.[20]
+Retriever-centric methods
+These methods aim to enhance the quality of document retrieval in vector databases:
+
+Pre-training the retriever using the Inverse Cloze Task (ICT), a technique that helps the model learn retrieval patterns by predicting masked text within documents.[21]
+Progressive data augmentation, as used in Diverse Augmentation for Generalizable Dense Retrieval (DRAGON), improves dense retrieval by sampling difficult negative examples during training.[22]
+Supervised retriever optimization aligns retrieval probabilities with the generator model’s likelihood distribution. This involves retrieving the top-k vectors for a given prompt, scoring the generated response’s perplexity, and minimizing KL divergence between the retriever’s selections and the model’s likelihoods to refine retrieval.[23]
+Reranking techniques can refine retriever performance by prioritizing the most relevant retrieved documents during training.[24][12]

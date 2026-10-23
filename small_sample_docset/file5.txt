@@ -1,0 +1,22 @@
+By redesigning the language model with the retriever in mind, a 25-time smaller network can get comparable perplexity as its much larger counterparts.[25] Because it is trained from scratch, this method (Retro) incurs the high cost of training runs that the original RAG scheme avoided. The hypothesis is that by giving domain knowledge during training, Retro needs less focus on the domain and can devote its smaller weight resources only to language semantics. The redesigned language model is shown here.
+
+It has been reported that Retro is not reproducible, so modifications were made to make it so. The more reproducible version is called Retro++ and includes in-context RAG.[26]
+
+Chunking
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Retrieval-augmented generation" – news · newspapers · books · scholar · JSTOR (October 2024) (Learn how and when to remove this message)
+Chunking involves various strategies for breaking up the data into vectors so the retriever can find details in it.[14]
+
+
+Different data styles have patterns that correct chunking can take advantage of.
+Three types of chunking strategies are:
+
+Fixed length with overlap. This is fast and easy. Overlapping consecutive chunks helps to maintain semantic context across chunks.
+Syntax-based chunks can break the document up into sentences. Libraries such as spaCy or NLTK can also help.
+File format-based chunking. Certain file types have natural chunks built in, and it's best to respect them. For example, code files are best chunked and vectorized as whole functions or classes. HTML files should leave <table> or base64 encoded <img> elements intact. Similar considerations should be taken for pdf files. Libraries such as Unstructured or Langchain can assist with this method.
+Knowledge graphs
+Rather than using documents as a source to vectorize and retrieve from, Knowledge Graphs can be used. One can start with a set of documents, books, or other bodies of text, and convert them to a knowledge graph using one of many methods, including language models. Once the knowledge graph is created, subgraphs can be vectorized, stored in a vector database, and used for retrieval as in plain RAG. The advantage here is that graphs has more recognizable structure than strings of text and this structure can help retrieve more relevant facts for generation. Sometimes this approach is called GraphRAG.[citation needed]
+
+Hybrid search
+Sometimes vector database searches can miss key facts needed to answer a user's question. One way to mitigate this is to do a traditional text search, add those results to the text chunks linked to the retrieved vectors from the vector search, and feed the combined hybrid text into the language model for generation.[citation needed]
